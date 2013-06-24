@@ -17,7 +17,13 @@ This is basically the page with all the content and html markup. Preview this by
 This is the css file, if you scroll down inside the file you will see an area i made you where you can add/edit css styles. Currently no colour or styling has been applied. There's plenty of resources around to help but always feel free to ask - even on twitter you'll get the answer.
 
 * Comments:
-```html comments start with <!-- and end with --> and css comments start with /* and end with */ like this /* hello kyra */```
+Html 
+```html comments start with <!-- and end with -->```
+For example:
+```<!-- Edit the element below -->```
+CSS
+```css comments start with /* and end with */```
+For example: ```/* hello kyra */```
 
 Comments won't affect the design or behavior, they're there for your refecence but some of them you may want to remove as they can be visible if somebody looks at the source code. Most of them can stay apart form the ones I specifically put there for you :)
 
