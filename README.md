@@ -21,7 +21,7 @@ There's plenty of resources around to help but always feel free to ask - even on
 * **Images** 
 You only need to worry about editing the above two files for the time being. However if you want to add any images/logos you can link to them in your html file and they should be stored in the /img/ directory.
 
-* Comments:
+* **Comments:**
 Html 
 ```html comments start with <!-- and end with -->```
 For example:
