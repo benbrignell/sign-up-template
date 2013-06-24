@@ -34,3 +34,5 @@ Comments won't affect the design or behavior, they're there for your refecence b
 
 * **Form:**
 Sign up to [Campaign Monitor](http://www.campaignmonitor.com/) and create a free account. There will be a form snippet which you can copy and paste to replace my form field (which is just a dummy one)
+
+If you get stuck, just [shout](http://clicktotweet.com/19b0l)
