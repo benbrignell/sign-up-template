@@ -32,5 +32,5 @@ For example: ```/* hello kyra */```
 
 Comments won't affect the design or behavior, they're there for your refecence but some of them you may want to remove as they can be visible if somebody looks at the source code. Most of them can stay apart form the ones I specifically put there for you :)
 
-* Form:
-Sign up to Campaign Monitor and create a free account. There will be a form snippet which you can copy and paste to replace my form field (which is just a dummy one)
+* **Form:**
+Sign up to [Campaign Monitor](http://www.campaignmonitor.com/) and create a free account. There will be a form snippet which you can copy and paste to replace my form field (which is just a dummy one)
