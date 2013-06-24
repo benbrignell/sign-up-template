@@ -7,14 +7,16 @@
 # What software you need
 You won't need to install ruby or anything to edit these but a text editor like Coda http://panic.com/coda/ would be ideal. There are free ones too - happy to recommend some but Coda has a free trial. You can technically edit your html/css with any text editor - so even TextEdit on your Mac will be suitable for your first try.
 
-# What you will need to edit
-You will need to edit the following files.
+# What files you're going to edit
 
 * Index.html 
-This is basically the page with all the content and html markup. Preview this by navigating to the index.html in your browser and hit refresh every time you make a change. Or you can use Coda's preview tool.
+This the page with all the content and html markup. Headings, paragraphs, links to images and layout elements all sit in here. Preview this by navigating to the index.html in your browser and hit refresh every time you make a change. Or you can use Coda's preview tool.
+
 
 * main.css
-This is the css file, if you scroll down inside the file you will see an area i made you where you can add/edit css styles. Currently no colour or styling has been applied. There's plenty of resources around to help but always feel free to ask - even on twitter you'll get the answer.
+This is the css file. This is the stylesheet where you add colours, borders, sizes and control the style of your html page. If you scroll down inside the file you will see an area I made you where you can add/edit css styles. Currently no colour or styling has been applied to the template. 
+
+There's plenty of resources around to help but always feel free to ask - even on twitter you'll get the answer.
 
 * Comments:
 Html 
