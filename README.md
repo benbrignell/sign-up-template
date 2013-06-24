@@ -1,6 +1,3 @@
-sign-up-template
-================
-
 # What you are learning
 * HTML
 * CSS
