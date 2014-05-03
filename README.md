@@ -1,3 +1,6 @@
+# Hello Kyra. 
+You were asking about building a sign up page for something, this is a quick guide on what to do as one of your learning to code excercises. 
+
 # What you are learning
 * HTML
 * CSS
